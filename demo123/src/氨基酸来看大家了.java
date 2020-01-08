@@ -8,5 +8,11 @@ public class 氨基酸来看大家了 {
 
 
 
+
+        System.out.println(456);
+        System.out.println(456);
+        System.out.println(456);
+        System.out.println(456);
+        System.out.println(456);
     }
 }
