@@ -14,5 +14,15 @@ public class 氨基酸来看大家了 {
         System.out.println(456);
         System.out.println(456);
         System.out.println(456);
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
+        System.out.println("这是master分支");
     }
 }
